@@ -9,7 +9,7 @@ public class PrimeNoV3 {
 				if(num%p==0)counter++;
 			}
 			if(counter==2) {
-				System.out.print(num+" ");
+				System.out.print (num+" ");
 				if(++k %8 ==0) {
 					System.out.println();
 				}

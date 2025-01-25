@@ -5,7 +5,7 @@ public class PrimeNoV4 {
 		int pn=0;
 		for(int i=1,k=0,m=0;i<=30;i++) {
 			
-			int num = i; 
+			int num = i;   
 			
 			int counter=0;
 			for(int p=1;p<=num;p++) {
